@@ -1,2 +1,2 @@
-# PyTorch-Recurrent-Neural-Network-Name-Classification
+# Name-Classification RNN
 A PyTorch Recurrent Neural Network for name classification.
